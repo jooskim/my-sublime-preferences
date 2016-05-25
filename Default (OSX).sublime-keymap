@@ -1,0 +1,7 @@
+[
+	{ "keys": ["super+shift+o"], "command": "show_overlay", "args": {"overlay": "goto", "show_files": true} },
+	{ "keys": ["super+l"], "command": "show_overlay", "args": {"overlay": "goto", "text": ":"} },
+	{ "keys": ["ctrl+g"], "command": "find_under_expand" },
+	{ "keys": ["ctrl+s"], "command": "show_overlay", "args": {"overlay": "command_palette", "text": "snippet:"} }
+]
+
